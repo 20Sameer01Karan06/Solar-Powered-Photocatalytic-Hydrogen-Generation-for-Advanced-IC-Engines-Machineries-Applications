@@ -1,0 +1,2 @@
+# Solar-Powered-Photocatalytic-Hydrogen-Generation-for-Advanced-IC-Engines-Machineries-Applications
+Project proposes a PV-E based system that generates hydrogen and oxygen from water using solar energy. Unlike conventional hydrogen systems, the produced oxygen is retained and utilized with hydrogen for controlled high-efficiency combustion, reducing dependence on external air and enabling cleaner, aerospace-grade propulsion and power generation. 
